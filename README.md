@@ -137,5 +137,3 @@ docs/          production notes, shot list, asset credits, media
   posting; it is not part of this repository.
 - No open-source licence has been chosen for the original code and film; all rights reserved by
   the author until one is.
-
-The repository keeps the name `eidolon` from an earlier concept.
