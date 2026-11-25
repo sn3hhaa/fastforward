@@ -13,3 +13,6 @@ Thumbs.db
 
 # user-supplied soundtrack (commercial recording): local only, never committed
 audio/
+
+# Claude Code local settings: per-machine, never committed
+.claude/settings.local.json
